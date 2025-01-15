@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tara-Brown
-- 👀 I’m interested in data science, specifically for biological or game applications
-- 🌱 I’m currently learning R!
+- 👀 I’m interested in data science, specifically for biological applications
 - 😄 Pronouns: She/Her
 
 <!---
