@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tara-Brown
-- 👀 I’m interested in data science, specifically for biological and geospatial applications
+- 👀 I’m interested in data science, specifically for human and geospatial applications
 - 😄 Pronouns: She/Her
 
 <!---
